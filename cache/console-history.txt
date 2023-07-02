@@ -1,0 +1,96 @@
+await accountConnect.count();
+await accountConnect.safeMint("0xcd3B766CCDd6AE721141F452C550Ca635964ce71");
+await accountConnect.count();
+let accountConnect = await umara_v2.connect(signer);
+let signer= await ethers.provider.getSigner("0xcd3B766CCDd6AE721141F452C550Ca635964ce71");
+let umara_v2 = await UMARA_V2.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+let UMARA_V2= await ethers.getContractFactory("UMARA_V2");
+.exit
+await accountConnect.count();
+await accountConnect.safeMint("0x2546BcD3c84621e976D8185a91A922aE77ECEc30");
+await accountConnect.count();
+let accountConnect = umara.connect(signer);
+let signer= await ethers.provider.getSigner("0x2546BcD3c84621e976D8185a91A922aE77ECEc30");
+await umara.count();
+await umara.safeMint("0x2546BcD3c84621e976D8185a91A922aE77ECEc30");
+let umara = await UMARA.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+let UMARA = await ethers.getContractFactory("UMARA");
+.exit
+ signer = await ethers.provider.getSigner("0x8626f6940E2eb289C9C1199");
+ signer = await ethers.provider.getSigner("0xBcd4042DE499D14eb954096");
+let signer = await ethers.provider.getSigner("0xBcd4042DE499D14eb954096");
+let umara_v2= await UMARA_V2.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+let UMARA_V2=await ethers.getContractFactory("UMARA_V2");
+.exit
+await connectAccount.count();
+await connectAccount.safeMint("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+await connectAccount.count();
+await connectAccount.safeMint("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+let connectAccount=await umara.connect(signer);
+let signer= await ethers.provider.getSigner("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+await umara.count();
+await umara.safeMint("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+await umara.count();
+await umara.safeMint("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+await umara.count();
+let umara=await UMARA.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+let UMARA = await ethers.getContractFactory("UMARA");
+await umara.count()
+await umara.count
+(await umara.count()).toString();
+await umara.safeMint("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+let umara = await UMARA.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+let UMARA = await ethers.getContractFactory("UMARA");
+.exit
+UMARA = await ethers.getContractFactory("UMARA");
+let UMARA = await ethers.getContractFactory("UMARA");
+let UMARA = await ethers.getContractFactory("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+await accountone.count();
+await accountone.safeMint("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+await accountone.count();
+let accountone=umara.connect(signer);
+let signer= await ethers.provider.getSigner("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+(await umara.count()).toString();
+(await umara.count({from:"0x70997970C51812dc3A010C7d01b50e0d17dc79C8"})).toString();
+(await umara.count(from:"0x70997970C51812dc3A010C7d01b50e0d17dc79C8")).toString();
+(await umara.count()).toString();
+await umara.count();
+let umara = await UMARA.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+let UMARA = await ethers.getContractFactory("UMARA");
+.exit
+await umara_v2.safeMint("0x90F79bf6EB2c4f870365E785982E1f101E93b906",{from:"0xBcd4042DE499D14e55001CcbB24a551F3b954096"});
+(await umara_v2.count()).toString();
+await umara_v2.safeMint("0x90F79bf6EB2c4f870365E785982E1f101E93b906");
+(await umara_v2.count()).toString();
+let umara_v2 = await UMARA_V2.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+let UMARA_V2 = await ethers.getContractFactory("UMARA_V2");
+.exit
+(await umara.count()).toString();
+await umara.safeMint("0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199");
+await umara.count();
+let umara = await UMARA.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+let UMARA = await ethers.getContractFactory("UMARA");
+await umara.count();
+(await umara.count()).toString();
+await umara.safeMint("0xbDA5747bFD65F08deb54cb465eB87D40e51B197E");
+let umara = await UMARA.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+UMARA =await ethers.getContractFactory("UMARA");
+let UMARA = await ethers.getContractFactory("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+(await umara.count()).toString();
+await umara.safeMint("0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC");
+(await umara.count()).toString();
+await umara.safeMint("0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC");
+await umara.count();
+await umara.safeMint("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+umara.safeMint("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+let umara = await UMARA.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+let UMARA = await ethers.getContractFactory("UMARA");
+await umara.safeMint("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+await umara.address
+let umara = await UMARA.attach("0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9");
+let UMARA= await ethers.getContractFactory("UMARA");
+.exit
+await umara.safeMint('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266');
+umara.address
+let umara = await upgrades.deployProxy(UMARA,{kind:"uups"});
+let UMARA = await ethers.getContractFactory("UMARA");
